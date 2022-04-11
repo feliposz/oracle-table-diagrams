@@ -4,10 +4,10 @@ prompt Generating GraphViz script.
 set timing off feedback off heading off termout off wrap on
 
 spool c:\temp\tmp_tabgraph.gv
-select 'graph TabGraph {rankdir=RL;outputMode=nodesfirst;ratio=fill;edge[fontname=Arial,fontsize=8];node[shape=rectangle,fontname=Arial,fontsize=8];' from dual
+select 'graph TabGraph {rankdir=TD;outputMode=nodesfirst;ratio=fill;edge[fontname=Arial,fontsize=8];node[shape=rectangle,fontname=Arial,fontsize=8];' from dual
 union all
 -- relationship formatting
-select distinct table_fk || ' -- ' || table_pk || ' [dir=forward];'
+select distinct '"' || table_fk || '" -- "' || table_pk || '" [dir=forward];'
 from (-- relationships
       select distinct
              n.table_name as table_fk
@@ -21,7 +21,7 @@ union all
 -- table formatting
 select (case
           when col_first = 'Y'
-          then table_name
+          then '"' || table_name || '"'
               || '[shape=plaintext,margin=0,label=<<table border="1" cellborder="0" cellspacing="0" cellpadding="4">'
               || '<tr><td colspan="2" bgcolor="#c0c0c0"><b>' || table_name || '</b></td></tr><hr/>'
           else null
