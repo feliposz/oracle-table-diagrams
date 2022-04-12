@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="999px" preserveAspectRatio="none" style="width:533px;height:999px;background:#FFFFFF;" version="1.1" viewBox="0 0 533 999" width="533px" zoomAndPan="magnify"><defs/><g><!--MD5=[84e360b8fec688c6444d3e169b18c2de]
+class COUNTRIES--><g id="elem_COUNTRIES"><rect codeLine="7" fill="#F1F1F1" height="110.4375" id="COUNTRIES" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="192" x="9.5" y="721"/><ellipse cx="61.75" cy="737" fill="#FFAAAA" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M62.6719,734.3906 L62.6719,741.0469 L63.8281,741.0469 Q64.4375,741.0469 64.6953,741.2813 Q64.9531,741.5156 64.9531,741.9063 Q64.9531,742.2813 64.6953,742.5156 Q64.4375,742.75 63.8281,742.75 L59.8438,742.75 Q59.2188,742.75 58.9609,742.5156 Q58.7031,742.2813 58.7031,741.8906 Q58.7031,741.5156 58.9609,741.2813 Q59.2188,741.0469 59.8438,741.0469 L60.9688,741.0469 L60.9688,734.3906 L59.125,734.3906 L59.125,736 Q59.125,736.6094 58.8906,736.875 Q58.6563,737.1406 58.2813,737.1406 Q57.9063,737.1406 57.6719,736.875 Q57.4375,736.6094 57.4375,736 L57.4375,732.6875 L66.25,732.6875 L66.25,736 Q66.25,736.6094 66.0078,736.875 Q65.7656,737.1406 65.3906,737.1406 Q65.0156,737.1406 64.7813,736.875 Q64.5469,736.6094 64.5469,736 L64.5469,734.3906 L62.6719,734.3906 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="82.25" y="742.7285">COUNTRIES</text><line style="stroke:#181818;stroke-width:0.5;" x1="10.5" x2="200.5" y1="753" y2="753"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="74" x="15.5" y="771.5332">country_id</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="89.5" y="771.5332">: char(2)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="15.5" y="789.1426"> </text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="180" x="15.5" y="806.752">country_name: varchar2(40)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="115" x="15.5" y="824.3613">region_id: number</text></g><!--MD5=[5307bc1a835904d4f1e5de8f6c13a650]
+class DEPARTMENTS--><g id="elem_DEPARTMENTS"><rect codeLine="14" fill="#F1F1F1" height="128.0469" id="DEPARTMENTS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="217" x="167" y="213"/><ellipse cx="219.75" cy="229" fill="#FFAAAA" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M220.6719,226.3906 L220.6719,233.0469 L221.8281,233.0469 Q222.4375,233.0469 222.6953,233.2813 Q222.9531,233.5156 222.9531,233.9063 Q222.9531,234.2813 222.6953,234.5156 Q222.4375,234.75 221.8281,234.75 L217.8438,234.75 Q217.2188,234.75 216.9609,234.5156 Q216.7031,234.2813 216.7031,233.8906 Q216.7031,233.5156 216.9609,233.2813 Q217.2188,233.0469 217.8438,233.0469 L218.9688,233.0469 L218.9688,226.3906 L217.125,226.3906 L217.125,228 Q217.125,228.6094 216.8906,228.875 Q216.6563,229.1406 216.2813,229.1406 Q215.9063,229.1406 215.6719,228.875 Q215.4375,228.6094 215.4375,228 L215.4375,224.6875 L224.25,224.6875 L224.25,228 Q224.25,228.6094 224.0078,228.875 Q223.7656,229.1406 223.3906,229.1406 Q223.0156,229.1406 222.7813,228.875 Q222.5469,228.6094 222.5469,228 L222.5469,226.3906 L220.6719,226.3906 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="240.25" y="234.7285">DEPARTMENTS</text><line style="stroke:#181818;stroke-width:0.5;" x1="168" x2="383" y1="245" y2="245"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="102" x="173" y="263.5332">department_id</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="275" y="263.5332">: number(4)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="173" y="281.1426"> </text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="115" x="173" y="298.752">department_name</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="288" y="298.752">: varchar2(30)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="173" y="316.3613">manager_id: number(6)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="173" y="333.9707">location_id: number(4)</text></g><!--MD5=[46a98f081deca00a6be70653712a3211]
+class EMPLOYEES--><g id="elem_EMPLOYEES"><rect codeLine="22" fill="#F1F1F1" height="251.3125" id="EMPLOYEES" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="198" x="239.5" y="401"/><ellipse cx="292.25" cy="417" fill="#FFAAAA" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M293.1719,414.3906 L293.1719,421.0469 L294.3281,421.0469 Q294.9375,421.0469 295.1953,421.2813 Q295.4531,421.5156 295.4531,421.9063 Q295.4531,422.2813 295.1953,422.5156 Q294.9375,422.75 294.3281,422.75 L290.3438,422.75 Q289.7188,422.75 289.4609,422.5156 Q289.2031,422.2813 289.2031,421.8906 Q289.2031,421.5156 289.4609,421.2813 Q289.7188,421.0469 290.3438,421.0469 L291.4688,421.0469 L291.4688,414.3906 L289.625,414.3906 L289.625,416 Q289.625,416.6094 289.3906,416.875 Q289.1563,417.1406 288.7813,417.1406 Q288.4063,417.1406 288.1719,416.875 Q287.9375,416.6094 287.9375,416 L287.9375,412.6875 L296.75,412.6875 L296.75,416 Q296.75,416.6094 296.5078,416.875 Q296.2656,417.1406 295.8906,417.1406 Q295.5156,417.1406 295.2813,416.875 Q295.0469,416.6094 295.0469,416 L295.0469,414.3906 L293.1719,414.3906 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="312.75" y="422.7285">EMPLOYEES</text><line style="stroke:#181818;stroke-width:0.5;" x1="240.5" x2="436.5" y1="433" y2="433"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="89" x="245.5" y="451.5332">employee_id</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="334.5" y="451.5332">: number(6)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="245.5" y="469.1426"> </text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="245.5" y="486.752">first_name: varchar2(20)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="65" x="245.5" y="504.3613">last_name</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="310.5" y="504.3613">: varchar2(25)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="33" x="245.5" y="521.9707">email</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="278.5" y="521.9707">: varchar2(25)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="186" x="245.5" y="539.5801">phone_number: varchar2(20)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="60" x="245.5" y="557.1895">hire_date</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="305.5" y="557.1895">: date</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="38" x="245.5" y="574.7988">job_id</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="283.5" y="574.7988">: varchar2(10)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="245.5" y="592.4082">salary: number(8,2)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="186" x="245.5" y="610.0176">commission_pct: number(2,2)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="245.5" y="627.627">manager_id: number(6)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="245.5" y="645.2363">department_id: number(4)</text></g><!--MD5=[dc7daf2793878455e847428857b7a9f8]
+class JOB_HISTORY--><g id="elem_JOB_HISTORY"><rect codeLine="37" fill="#F1F1F1" height="145.6563" id="JOB_HISTORY" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="177" x="349" y="7"/><ellipse cx="386.95" cy="23" fill="#FFAAAA" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M387.8719,20.3906 L387.8719,27.0469 L389.0281,27.0469 Q389.6375,27.0469 389.8953,27.2813 Q390.1531,27.5156 390.1531,27.9063 Q390.1531,28.2813 389.8953,28.5156 Q389.6375,28.75 389.0281,28.75 L385.0438,28.75 Q384.4188,28.75 384.1609,28.5156 Q383.9031,28.2813 383.9031,27.8906 Q383.9031,27.5156 384.1609,27.2813 Q384.4188,27.0469 385.0438,27.0469 L386.1688,27.0469 L386.1688,20.3906 L384.325,20.3906 L384.325,22 Q384.325,22.6094 384.0906,22.875 Q383.8563,23.1406 383.4813,23.1406 Q383.1063,23.1406 382.8719,22.875 Q382.6375,22.6094 382.6375,22 L382.6375,18.6875 L391.45,18.6875 L391.45,22 Q391.45,22.6094 391.2078,22.875 Q390.9656,23.1406 390.5906,23.1406 Q390.2156,23.1406 389.9813,22.875 Q389.7469,22.6094 389.7469,22 L389.7469,20.3906 L387.8719,20.3906 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="406.05" y="28.7285">JOB_HISTORY</text><line style="stroke:#181818;stroke-width:0.5;" x1="350" x2="525" y1="39" y2="39"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="89" x="355" y="57.5332">employee_id</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="444" y="57.5332">: number(6)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="355" y="75.1426"> </text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="71" x="355" y="92.752">start_date</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="426" y="92.752">: date</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="60" x="355" y="110.3613">end_date</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="415" y="110.3613">: date</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="38" x="355" y="127.9707">job_id</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="393" y="127.9707">: varchar2(10)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="355" y="145.5801">department_id: number(4)</text></g><!--MD5=[5dfbf8df56efa535223efdd7c8b7f094]
+class JOBS--><g id="elem_JOBS"><rect codeLine="46" fill="#F1F1F1" height="128.0469" id="JOBS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="157" x="345" y="712"/><ellipse cx="401.75" cy="728" fill="#FFAAAA" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M402.6719,725.3906 L402.6719,732.0469 L403.8281,732.0469 Q404.4375,732.0469 404.6953,732.2813 Q404.9531,732.5156 404.9531,732.9063 Q404.9531,733.2813 404.6953,733.5156 Q404.4375,733.75 403.8281,733.75 L399.8438,733.75 Q399.2188,733.75 398.9609,733.5156 Q398.7031,733.2813 398.7031,732.8906 Q398.7031,732.5156 398.9609,732.2813 Q399.2188,732.0469 399.8438,732.0469 L400.9688,732.0469 L400.9688,725.3906 L399.125,725.3906 L399.125,727 Q399.125,727.6094 398.8906,727.875 Q398.6563,728.1406 398.2813,728.1406 Q397.9063,728.1406 397.6719,727.875 Q397.4375,727.6094 397.4375,727 L397.4375,723.6875 L406.25,723.6875 L406.25,727 Q406.25,727.6094 406.0078,727.875 Q405.7656,728.1406 405.3906,728.1406 Q405.0156,728.1406 404.7813,727.875 Q404.5469,727.6094 404.5469,727 L404.5469,725.3906 L402.6719,725.3906 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="422.25" y="733.7285">JOBS</text><line style="stroke:#181818;stroke-width:0.5;" x1="346" x2="501" y1="744" y2="744"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="43" x="351" y="762.5332">job_id</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="394" y="762.5332">: varchar2(10)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="351" y="780.1426"> </text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="49" x="351" y="797.752">job_title</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="400" y="797.752">: varchar2(35)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="351" y="815.3613">min_salary: number(6)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="351" y="832.9707">max_salary: number(6)</text></g><!--MD5=[d18e5806276126e491d6e41a781d1911]
+class LOCATIONS--><g id="elem_LOCATIONS"><rect codeLine="54" fill="#F1F1F1" height="163.2656" id="LOCATIONS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="197" x="7" y="445"/><ellipse cx="61.75" cy="461" fill="#FFAAAA" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M62.6719,458.3906 L62.6719,465.0469 L63.8281,465.0469 Q64.4375,465.0469 64.6953,465.2813 Q64.9531,465.5156 64.9531,465.9063 Q64.9531,466.2813 64.6953,466.5156 Q64.4375,466.75 63.8281,466.75 L59.8438,466.75 Q59.2188,466.75 58.9609,466.5156 Q58.7031,466.2813 58.7031,465.8906 Q58.7031,465.5156 58.9609,465.2813 Q59.2188,465.0469 59.8438,465.0469 L60.9688,465.0469 L60.9688,458.3906 L59.125,458.3906 L59.125,460 Q59.125,460.6094 58.8906,460.875 Q58.6563,461.1406 58.2813,461.1406 Q57.9063,461.1406 57.6719,460.875 Q57.4375,460.6094 57.4375,460 L57.4375,456.6875 L66.25,456.6875 L66.25,460 Q66.25,460.6094 66.0078,460.875 Q65.7656,461.1406 65.3906,461.1406 Q65.0156,461.1406 64.7813,460.875 Q64.5469,460.6094 64.5469,460 L64.5469,458.3906 L62.6719,458.3906 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="82.25" y="466.7285">LOCATIONS</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="203" y1="477" y2="477"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="77" x="13" y="495.5332">location_id</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="90" y="495.5332">: number(4)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="13" y="513.1426"> </text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="185" x="13" y="530.752">street_address: varchar2(40)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="167" x="13" y="548.3613">postal_code: varchar2(12)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="21" x="13" y="565.9707">city</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="34" y="565.9707">: varchar2(30)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="183" x="13" y="583.5801">state_province: varchar2(25)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="13" y="601.1895">country_id: char(2)</text></g><!--MD5=[8754f463d9bf4d71618074c646816b5e]
+class REGIONS--><g id="elem_REGIONS"><rect codeLine="64" fill="#F1F1F1" height="92.8281" id="REGIONS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="185" x="13" y="900"/><ellipse cx="70.25" cy="916" fill="#FFAAAA" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M71.1719,913.3906 L71.1719,920.0469 L72.3281,920.0469 Q72.9375,920.0469 73.1953,920.2813 Q73.4531,920.5156 73.4531,920.9063 Q73.4531,921.2813 73.1953,921.5156 Q72.9375,921.75 72.3281,921.75 L68.3438,921.75 Q67.7188,921.75 67.4609,921.5156 Q67.2031,921.2813 67.2031,920.8906 Q67.2031,920.5156 67.4609,920.2813 Q67.7188,920.0469 68.3438,920.0469 L69.4688,920.0469 L69.4688,913.3906 L67.625,913.3906 L67.625,915 Q67.625,915.6094 67.3906,915.875 Q67.1563,916.1406 66.7813,916.1406 Q66.4063,916.1406 66.1719,915.875 Q65.9375,915.6094 65.9375,915 L65.9375,911.6875 L74.75,911.6875 L74.75,915 Q74.75,915.6094 74.5078,915.875 Q74.2656,916.1406 73.8906,916.1406 Q73.5156,916.1406 73.2813,915.875 Q73.0469,915.6094 73.0469,915 L73.0469,913.3906 L71.1719,913.3906 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="90.75" y="921.7285">REGIONS</text><line style="stroke:#181818;stroke-width:0.5;" x1="14" x2="197" y1="932" y2="932"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="underline" textLength="67" x="19" y="950.5332">region_id</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="86" y="950.5332">: number</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="19" y="968.1426"> </text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="19" y="985.752">region_name: varchar2(25)</text></g><!--MD5=[5601e3d97f719f45439baf12cc37bf57]
+link COUNTRIES to REGIONS--><g id="link_COUNTRIES_REGIONS"><path codeLine="70" d="M105.5,831.24 C105.5,851.64 105.5,874.74 105.5,894.8 " fill="none" id="COUNTRIES-to-REGIONS" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="105.5,899.84,109.5,890.84,105.5,894.84,101.5,890.84,105.5,899.84" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d7594b5c0b16a545ea0e0a734d33a1a4]
+link LOCATIONS to COUNTRIES--><g id="link_LOCATIONS_COUNTRIES"><path codeLine="71" d="M105.5,608.2 C105.5,643.28 105.5,683.64 105.5,715.87 " fill="none" id="LOCATIONS-to-COUNTRIES" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="105.5,720.97,109.5,711.97,105.5,715.97,101.5,711.97,105.5,720.97" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[41ecfb0657998ae01395c361006107e5]
+link DEPARTMENTS to LOCATIONS--><g id="link_DEPARTMENTS_LOCATIONS"><path codeLine="72" d="M232.16,341.1 C211.45,371.25 186.35,407.79 163.98,440.36 " fill="none" id="DEPARTMENTS-to-LOCATIONS" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="160.98,444.72,169.3666,439.5562,163.806,440.5952,162.7669,435.0346,160.98,444.72" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e7b67c2c227995f827c6635430a0c1ba]
+link EMPLOYEES to DEPARTMENTS--><g id="link_EMPLOYEES_DEPARTMENTS"><path codeLine="73" d="M320.27,400.84 C315.47,382.06 310.27,363.31 305.1,346.31 " fill="none" id="EMPLOYEES-to-DEPARTMENTS" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="303.5,341.1,302.3298,350.8791,304.9734,345.878,309.9746,348.5216,303.5,341.1" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[530cd9568ed2bab397c2671fd1ef2a7b]
+link DEPARTMENTS to EMPLOYEES--><g id="link_DEPARTMENTS_EMPLOYEES"><path codeLine="76" d="M280.28,341.1 C283.69,357.99 288.02,376.9 292.8,395.99 " fill="none" id="DEPARTMENTS-to-EMPLOYEES" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="294.02,400.84,295.711,391.1374,292.804,395.9901,287.9512,393.0831,294.02,400.84" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d748a6252031d0c661ec079c32cb1e4e]
+link EMPLOYEES to JOBS--><g id="link_EMPLOYEES_JOBS"><path codeLine="74" d="M381.37,652.34 C387.86,671.23 394.34,690.08 400.19,707.14 " fill="none" id="EMPLOYEES-to-JOBS" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="401.83,711.9,402.7078,702.0903,400.2146,707.1681,395.1368,704.675,401.83,711.9" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f3bd3b436f2ea086ca93bcfa2fe404c1]
+link EMPLOYEES to EMPLOYEES--><g id="link_EMPLOYEES_EMPLOYEES"><path codeLine="75" d="M437.55,481.7 C457.9,486.5 472.5,501.43 472.5,526.5 C472.5,549.41 460.3,563.86 442.66,569.83 " fill="none" id="EMPLOYEES-to-EMPLOYEES" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="437.55,571.3,447.3026,572.6736,442.3576,569.9264,445.1048,564.9814,437.55,571.3" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[2e943e169b6c1253415470267dc40e0e]
+link JOB_HISTORY to JOBS--><g id="link_JOB_HISTORY_JOBS"><path codeLine="77" d="M453.75,153.43 C475.62,262.59 508.04,475.31 473.5,652 C469.9,670.4 463.54,689.53 456.54,707.07 " fill="none" id="JOB_HISTORY-to-JOBS" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="454.55,711.97,461.6319,705.1256,456.4242,707.3346,454.2152,702.1268,454.55,711.97" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[308286574b85348a470cecfb53fa6f33]
+link JOB_HISTORY to EMPLOYEES--><g id="link_JOB_HISTORY_EMPLOYEES"><path codeLine="78" d="M431.26,153.14 C425.8,205.71 416.38,278.38 401.5,341 C397.24,358.91 391.95,377.54 386.26,395.77 " fill="none" id="JOB_HISTORY-to-EMPLOYEES" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="384.64,400.9,391.1814,393.5373,386.1566,396.1356,383.5583,391.1107,384.64,400.9" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[79ccce19ffbe6e4d8ad158e745e65bab]
+link JOB_HISTORY to DEPARTMENTS--><g id="link_JOB_HISTORY_DEPARTMENTS"><path codeLine="79" d="M377.64,153.06 C362.47,171.31 346.24,190.85 331.28,208.85 " fill="none" id="JOB_HISTORY-to-DEPARTMENTS" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="327.91,212.91,336.735,208.5374,331.1025,209.0619,330.578,203.4294,327.91,212.91" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4a5537bc69eceb3f32617037d4441f6a]
+@startuml
+!define Table(name,desc) class name as "desc" << (T,#FFAAAA) >>
+!define primary_key(x) <b>x</b>
+!define unique(x) <color:green>x</color>
+!define not_null(x) <u>x</u>
+hide methods
+hide stereotypes
+Table(COUNTRIES, COUNTRIES) {
+{field} not_null(primary_key(country_id)): char(2)
+
+{field} country_name: varchar2(40)
+{field} region_id: number
+}
+
+Table(DEPARTMENTS, DEPARTMENTS) {
+{field} not_null(primary_key(department_id)): number(4)
+
+{field} not_null(department_name): varchar2(30)
+{field} manager_id: number(6)
+{field} location_id: number(4)
+}
+
+Table(EMPLOYEES, EMPLOYEES) {
+{field} not_null(primary_key(employee_id)): number(6)
+
+{field} first_name: varchar2(20)
+{field} not_null(last_name): varchar2(25)
+{field} not_null(email): varchar2(25)
+{field} phone_number: varchar2(20)
+{field} not_null(hire_date): date
+{field} not_null(job_id): varchar2(10)
+{field} salary: number(8,2)
+{field} commission_pct: number(2,2)
+{field} manager_id: number(6)
+{field} department_id: number(4)
+}
+
+Table(JOB_HISTORY, JOB_HISTORY) {
+{field} not_null(primary_key(employee_id)): number(6)
+
+{field} not_null(primary_key(start_date)): date
+{field} not_null(end_date): date
+{field} not_null(job_id): varchar2(10)
+{field} department_id: number(4)
+}
+
+Table(JOBS, JOBS) {
+{field} not_null(primary_key(job_id)): varchar2(10)
+
+{field} not_null(job_title): varchar2(35)
+{field} min_salary: number(6)
+{field} max_salary: number(6)
+}
+
+Table(LOCATIONS, LOCATIONS) {
+{field} not_null(primary_key(location_id)): number(4)
+
+{field} street_address: varchar2(40)
+{field} postal_code: varchar2(12)
+{field} not_null(city): varchar2(30)
+{field} state_province: varchar2(25)
+{field} country_id: char(2)
+}
+
+Table(REGIONS, REGIONS) {
+{field} not_null(primary_key(region_id)): number
+
+{field} region_name: varchar2(25)
+}
+
+COUNTRIES - -> REGIONS
+LOCATIONS - -> COUNTRIES
+DEPARTMENTS - -> LOCATIONS
+EMPLOYEES - -> DEPARTMENTS
+EMPLOYEES - -> JOBS
+EMPLOYEES - -> EMPLOYEES
+DEPARTMENTS - -> EMPLOYEES
+JOB_HISTORY - -> JOBS
+JOB_HISTORY - -> EMPLOYEES
+JOB_HISTORY - -> DEPARTMENTS
+@enduml
+
+@startuml
+hide methods
+hide stereotypes
+class COUNTRIES as "COUNTRIES" << (T,#FFAAAA) >> {
+{field} <u><b>country_id</b></u>: char(2)
+
+{field} country_name: varchar2(40)
+{field} region_id: number
+}
+
+class DEPARTMENTS as "DEPARTMENTS" << (T,#FFAAAA) >> {
+{field} <u><b>department_id</b></u>: number(4)
+
+{field} <u>department_name</u>: varchar2(30)
+{field} manager_id: number(6)
+{field} location_id: number(4)
+}
+
+class EMPLOYEES as "EMPLOYEES" << (T,#FFAAAA) >> {
+{field} <u><b>employee_id</b></u>: number(6)
+
+{field} first_name: varchar2(20)
+{field} <u>last_name</u>: varchar2(25)
+{field} <u>email</u>: varchar2(25)
+{field} phone_number: varchar2(20)
+{field} <u>hire_date</u>: date
+{field} <u>job_id</u>: varchar2(10)
+{field} salary: number(8,2)
+{field} commission_pct: number(2,2)
+{field} manager_id: number(6)
+{field} department_id: number(4)
+}
+
+class JOB_HISTORY as "JOB_HISTORY" << (T,#FFAAAA) >> {
+{field} <u><b>employee_id</b></u>: number(6)
+
+{field} <u><b>start_date</b></u>: date
+{field} <u>end_date</u>: date
+{field} <u>job_id</u>: varchar2(10)
+{field} department_id: number(4)
+}
+
+class JOBS as "JOBS" << (T,#FFAAAA) >> {
+{field} <u><b>job_id</b></u>: varchar2(10)
+
+{field} <u>job_title</u>: varchar2(35)
+{field} min_salary: number(6)
+{field} max_salary: number(6)
+}
+
+class LOCATIONS as "LOCATIONS" << (T,#FFAAAA) >> {
+{field} <u><b>location_id</b></u>: number(4)
+
+{field} street_address: varchar2(40)
+{field} postal_code: varchar2(12)
+{field} <u>city</u>: varchar2(30)
+{field} state_province: varchar2(25)
+{field} country_id: char(2)
+}
+
+class REGIONS as "REGIONS" << (T,#FFAAAA) >> {
+{field} <u><b>region_id</b></u>: number
+
+{field} region_name: varchar2(25)
+}
+
+COUNTRIES - -> REGIONS
+LOCATIONS - -> COUNTRIES
+DEPARTMENTS - -> LOCATIONS
+EMPLOYEES - -> DEPARTMENTS
+EMPLOYEES - -> JOBS
+EMPLOYEES - -> EMPLOYEES
+DEPARTMENTS - -> EMPLOYEES
+JOB_HISTORY - -> JOBS
+JOB_HISTORY - -> EMPLOYEES
+JOB_HISTORY - -> DEPARTMENTS
+@enduml
+
+PlantUML version 1.2022.4(Sat Apr 09 10:29:17 BRT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) Client VM
+Default Encoding: Cp1252
+Language: pt
+Country: BR
+--></g></svg>
